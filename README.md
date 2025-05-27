@@ -7,4 +7,4 @@
 - Baim Mudrik Aziz (G1A022071)
 - Alif Nurhidayat (G1A022073)
 
-Proyek ini membahas tentang algoritma regression
+Proyek ini membahas tentang model regression
